@@ -1,0 +1,27 @@
+/************************************************************************************
+CUSTOM STYLES
+*************************************************************************************/
+/* qtranslate widget */
+#searchform-wrap {
+	display: none;
+}
+.social-widget {
+	z-index: 1000;
+}
+.widget_qtranslate {
+	position: absolute;
+	top: 45px;
+	right: -10px;
+}
+
+.presidium {
+    width: 100%;
+}
+.presidium tr {
+    vertical-align: top;
+}
+.presidium td {
+    text-align: center;
+    padding: 1em;
+}
+
